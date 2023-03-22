@@ -1,0 +1,36 @@
+.parend{ height:700px ;width:1450px;  border: none; margin: auto;display: flex; background-color: white;}
+.left{margin:10px 15px; flex: 1; float:left; height: 95%; width:20%; border:1px solid #060;border: none;background-color: aliceblue;font-family:"楷体";font-weight:bold;}
+.text{
+	font-size: 30px;
+	color: #DC143C;
+	text-align: center;
+	
+}
+/* img{
+	background-position:center ;
+	margin-left: 10%;
+	height: 80%;
+	width: 80%;
+	
+} */
+tbody{
+	height: 530px;
+	valign:center;
+	vertical-align: middle;
+	 
+}
+.right{margin:10px 15px; flex: 3; height: 95%;width:70%; border:1px solid #00F;border: none;}
+.top{
+	font-weight:bold;
+	margin-top: 1%;
+	font-size: 30px;
+	color: crimson;
+	text-align: center;
+}
+.content{
+	margin-top: 2%;
+	
+}
+h1{
+	color: black;
+}

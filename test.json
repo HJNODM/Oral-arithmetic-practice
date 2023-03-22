@@ -1,0 +1,32 @@
+{"test":[{
+	"userName": "虎头鞋",
+	"rightNum": 200,
+	"totalNum": 200,
+	"rightRatio": "100%",
+	"rank": 1
+}, {
+	"userName": "清辅音",
+	"rightNum": 150,
+	"totalNum": 150,
+	"rightRatio": "100%",
+	"rank": 1
+}, {
+	"userName": "红树林",
+	"rightNum": 3,
+	"totalNum": 24,
+	"rightRatio": "12.5%",
+	"rank": 2
+}, {
+	"userName": "文化局",
+	"rightNum": 3,
+	"totalNum": 24,
+	"rightRatio": "12.5%",
+	"rank": 2
+}, {
+	"userName": "游仙区",
+	"rightNum": 1,
+	"totalNum": 50,
+	"rightRatio": "2%",
+	"rank": 3
+}]
+}
